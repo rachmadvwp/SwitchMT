@@ -55,4 +55,13 @@ The project uses a meta-environment approach to handle multiple environments:
 - Implements environment switching at specified intervals
 - Facilitates continual learning experiments
 
-
+## Citation
+If you use and/or cite SwitchMT in your research or find it useful, kindly cite the following [article](https://arxiv.org/abs/2504.13541):
+```
+@article{Ref_SwitchMT,
+  title={Scalable Multi-Task Learning through Spiking Neural Networks with Adaptive Task-Switching Policy for Intelligent Autonomous Agents},
+  author={Putra, Rachmad Vidya Wicaksana and Devkota, Avaneesh and Shafique, Muhammad},
+  journal={arXiv preprint arXiv:2504.13541},
+  year={2025}
+}
+```
