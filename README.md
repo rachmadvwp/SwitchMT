@@ -9,9 +9,9 @@ This repository contains the implementation of SwitchMT methodology, which conta
 - `Neuron.py`: Custom neuron models
 
 ### Key features:
-- Uses the SpikingJelly library for SNN components
-- Implements spiking neurons (IF nodes) for more biologically plausible computation
-- Processes information across multiple timesteps
+- It uses the SpikingJelly library for SNN components
+- It implements spiking neurons (IF nodes) for more biologically plausible computation
+- It processes information across multiple timesteps
 
 ### Active Dendrite Models
 "Active" suffix implements active dendrites, which are a biologically-inspired mechanism that allows neurons to perform more complex computations through dendritic processing. These models:
