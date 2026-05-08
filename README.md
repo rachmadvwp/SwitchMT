@@ -1,5 +1,8 @@
 # SwitchMT: Scalable Multi-Task Learning through Spiking Neural Networks with Adaptive Task-Switching Policy for Intelligent Autonomous Agents
 
+## News
+- This work has been accepted at the 63rd ACM/IEEE Design Automation Conference (DAC), July 26-29, 2026 in Long Beach, CA, USA.
+  
 ## Overview
 This repository contains the implementation of SwitchMT methodology, which contains the following files:
 - `Environment.py`: Defines the environment wrapper for Atari games
